@@ -77,31 +77,31 @@ This project is an interactive Power BI dashboard that analyzes Amazon product d
 
 ## 1. Overview Dashboard
 
-<img src="Dashboard_Home.png" width="900">
+<img src="Dashboard_Home.png" width="800">
 
 ---
 
 ## 2. Category Analysis
 
-<img src="Category_Analysis.png" width="900">
+<img src="Category_Analysis.png" width="800">
 
 ---
 
 ## 3. Customer Reviews
 
-<img src="Customer_Reviews.png" width="900">
+<img src="Customer_Reviews.png" width="800">
 
 ---
 
 ## 4. Price vs Rating Analysis
 
-<img src="Price_vs_Rating.png" width="900">
+<img src="Price_vs_Rating.png" width="800">
 
 ---
 
 ## 5. Product Explorer
 
-<img src="Product_Explorer.png" width="900">
+<img src="Product_Explorer.png" width="800">
 
 ---
 
