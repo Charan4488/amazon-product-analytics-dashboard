@@ -46,12 +46,17 @@ Amazon Product Dataset
 ## Repository Structure
 
 ```
-amazon-product-analytics-dashboard
+Amazon-Product-Analytics-Dashboard
 │
-├── Dashboard
-├── Dataset
-├── Documentation
-├── Images
+├── Amazon Product Analytics Dashboard.pbix
+├── Amazon_Dataset.csv
+├── Amazon_Product_Analytics_Documentation.pdf
+├── Dashboard_Home.png
+├── Category_Analysis.png
+├── Customer_Reviews.png
+├── Price_vs_Rating.png
+├── Product_Explorer.png
+├── LICENSE
 └── README.md
 ```
 
