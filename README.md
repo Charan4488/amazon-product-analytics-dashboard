@@ -55,6 +55,17 @@ amazon-product-analytics-dashboard
 └── README.md
 ```
 
+## Repository Contents
+
+- Amazon Product Analytics Dashboard.pbix – Power BI dashboard
+- Amazon_Dataset.csv – Dataset used for analysis
+- Amazon_Product_Analytics_Documentation.pdf – Complete project documentation
+- Dashboard_Home.png – Dashboard overview
+- Category_Analysis.png – Category analysis dashboard
+- Customer_Reviews.png – Customer reviews dashboard
+- Price_vs_Rating.png – Price vs Rating analysis
+- Product_Explorer.png – Product explorer page
+
 ## Author
 
 Charan4488
