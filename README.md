@@ -71,6 +71,23 @@ Amazon-Product-Analytics-Dashboard
 - Price_vs_Rating.png – Price vs Rating analysis
 - Product_Explorer.png – Product explorer page
 
+## Dashboard Preview
+
+### 1. Overview Dashboard
+![Overview Dashboard](Dashboard_Home.png)
+
+### 2. Category Analysis
+![Category Analysis](Category_Analysis.png)
+
+### 3. Customer Reviews
+![Customer Reviews](Customer_Reviews.png)
+
+### 4. Price vs Rating Analysis
+![Price vs Rating Analysis](Price_vs_Rating.png)
+
+### 5. Product Explorer
+![Product Explorer](Product_Explorer.png)
+
 ## Author
 
 Charan4488
