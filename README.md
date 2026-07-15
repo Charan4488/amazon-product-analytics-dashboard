@@ -1,12 +1,12 @@
-# Amazon Product Analytics Dashboard
+# 🛒 Amazon Product Analytics Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
 This project is an interactive Power BI dashboard that analyzes Amazon product data to generate business insights on pricing, discounts, ratings, reviews, and category-wise performance. The dashboard helps users explore product trends through interactive visualizations and KPIs.
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Analyze Amazon product pricing and discounts.
 - Identify top-performing product categories.
@@ -43,7 +43,7 @@ This project is an interactive Power BI dashboard that analyzes Amazon product d
 
 ---
 
-## Dashboard Features
+## ✨ Dashboard Features
 
 ### KPI Cards
 - Total Products
@@ -63,7 +63,7 @@ This project is an interactive Power BI dashboard that analyzes Amazon product d
 
 ---
 
-## Dashboard Pages
+## 📊 Dashboard Pages
 
 1. Overview Dashboard
 2. Category Analysis
@@ -73,7 +73,7 @@ This project is an interactive Power BI dashboard that analyzes Amazon product d
 
 ---
 
-# Dashboard Preview
+# 🖼 Dashboard Preview
 
 ## 1. Overview Dashboard
 
@@ -105,7 +105,7 @@ This project is an interactive Power BI dashboard that analyzes Amazon product d
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 amazon-product-analytics-dashboard
@@ -124,7 +124,7 @@ amazon-product-analytics-dashboard
 
 ---
 
-## Repository Contents
+## 📂 Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -158,7 +158,7 @@ amazon-product-analytics-dashboard
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Charan4488**
 
